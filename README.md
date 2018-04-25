@@ -1,4 +1,4 @@
-# Coca Cola Web Project
+# Webpack-Boilerplate
 
 npm install
 
